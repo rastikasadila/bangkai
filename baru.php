@@ -1,3 +1,3 @@
 <?php
-echo "file baru";
+echo "file baru lagi";
 ?>
